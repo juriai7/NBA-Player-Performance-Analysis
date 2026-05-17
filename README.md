@@ -87,7 +87,7 @@ Models used:
 - Support Vector Regression
 
 <p align="center">
-  <img src="assets/regression-results.png" alt="Regression Results" width="850">
+  <img src="NBA_Player_Performance_Analysis_GitHub/assets/project-structure.png" alt="Project Structure" width="850">
 </p>
 
 ---
