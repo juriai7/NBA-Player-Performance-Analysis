@@ -2,9 +2,7 @@
 
 ### Machine Learning Project for Regression, Classification, Clustering, and Temporal Performance Trends
 
-<p align="center">
-  <img src="assets/project-cover.png" alt="NBA Player Performance Analysis Cover" width="850">
-</p>
+<img src="assets/project-cover.png">
 
 ## Overview
 
